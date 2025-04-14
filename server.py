@@ -48,7 +48,7 @@ def get_session_assistant(session_id: str=None, session_name: str=None):
             IpAddress="10.36.236.121",  # Replace with your IxNetwork server IP
             RestPort=443,         # Replace with the appropriate REST port
             UserName="admin",
-            Password="Kimchi123Kimchi123!",
+            Password="XXXXXXX",
             SessionName=session_name,
             SessionId=session_id,
             LogLevel=SessionAssistant.LOGLEVEL_INFO,
