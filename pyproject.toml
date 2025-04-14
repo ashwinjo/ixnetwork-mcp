@@ -1,0 +1,12 @@
+[project]
+name = "ixnetwork-session-manager"
+version = "0.1.0"
+description = "ixnetwork-session-manager"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bs4>=0.0.2",
+    "httpx>=0.28.1",
+    "ixnetwork-restpy>=1.6.1",
+    "mcp[cli]>=1.6.0",
+]
